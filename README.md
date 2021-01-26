@@ -5,7 +5,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/twinstower/test-hosting.git
+git remote add origin https://github.com/twinstower/landing_page.git
 git push -u origin main 
                 
 git branch test //for create new branch
