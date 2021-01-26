@@ -16,3 +16,4 @@ edit html or any update that you need
 git add .
 git commit -m "I just added new two pages on create_new_page branch"
 git push -u origin test2 // push to repo and wait then type url to see update websit
+git push -u origin main --force >> 2remote repo error
